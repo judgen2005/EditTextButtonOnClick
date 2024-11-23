@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EditTextButtonOnClick</string>
+    <string name="txtConvert">Преобразовать</string>
+    <string name="hintInputEditText">Поле ввода текста</string>
+</resources>
